@@ -1,0 +1,24 @@
+body {
+	margin: auto; 
+	padding-top: 200px;
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+input[type=text] {
+	height: 50px;
+	width: 80%;
+	font-size: 40px;
+}
+
+.short-url {
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+
+#footer {
+	margin-top: 30px;
+}
